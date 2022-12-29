@@ -7,7 +7,7 @@
 
   <servlet>
     <servlet-name>App</servlet-name>
-    <servlet-class>App</servlet-class>
+    <servlet-class>com.dotin.App</servlet-class>
   </servlet>
 
   <servlet-mapping>
