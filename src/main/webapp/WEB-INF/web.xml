@@ -6,13 +6,13 @@
   <display-name>Archetype Created Web Application</display-name>
 
   <servlet>
-    <servlet-name>App</servlet-name>
-    <servlet-class>com.dotin.App</servlet-class>
+    <servlet-name>Servlet</servlet-name>
+    <servlet-class>Servlet</servlet-class>
   </servlet>
 
   <servlet-mapping>
-    <servlet-name>App</servlet-name>
-    <url-pattern>/App</url-pattern>
+    <servlet-name>Servlet</servlet-name>
+    <url-pattern>/Servlet</url-pattern>
   </servlet-mapping>
 
 </web-app>
